@@ -1,0 +1,64 @@
+.flex {
+    display: flex;
+}
+
+.gap10 {
+    gap: 10px;
+}
+
+.flex-col {
+    flex-direction: column;
+}
+
+.justify-center {
+    justify-content: center;
+}
+
+.align-center {
+    align-items: center;
+}
+
+.flex-w {
+    flex-wrap: wrap;
+}
+.content-between {
+    justify-content: space-between;
+}
+
+.border {
+    border: 2px white solid;
+}
+
+
+
+.bg-black {
+    background-color: black;
+    color: white;
+}
+
+.bg-lblack {
+    background-color: rgb(31, 30, 30);
+    color: white;
+    border-radius: 8px;
+}
+
+.bg-llblack {
+    background-color: rgb(75, 74, 74);
+    border-radius: 5px;
+}
+
+.bg-topbar {
+    background-color: #121212;
+}
+
+.bg-topbar-podcast {
+    background-color: rgb(63, 71, 63);
+}
+
+.bg-banner {
+    background-color: rgb(117, 119, 117);
+}
+
+.overflow-a {
+    overflow-wrap: anywhere;
+}
